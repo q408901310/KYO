@@ -13,7 +13,7 @@
 * $mail->setMailInfo("test", "<b>test</b>"); 设置邮件主题、内容
 * $mail->sendMail(); 发送
 */
- class MySendMail {
+ class MySendMail { 
     /**
     * @var string 邮件传输代理用户名
     * @access private
