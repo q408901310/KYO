@@ -14,6 +14,7 @@
 * $mail->sendMail(); 发送
 */
  class MySendMail { 
+ 
     /**
     * @var string 邮件传输代理用户名
     * @access private
